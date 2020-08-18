@@ -2,7 +2,7 @@
 
 body {
   font-family: helvetica, arial, sans-serif;
-/*   margin: 2em; */
+  /*   margin: 2em; */
 }
 
 h1 {
@@ -13,7 +13,7 @@ p {
   font-family: Times;
 }
 .customfont {
-  font-family: 'Lemonada', cursive; 
+  font-family: "Lemonada", cursive;
   font-weight: 300;
 }
 
@@ -22,12 +22,16 @@ p {
     background-color: lightblue;
   }
 }
-.jumbotron{
-  Background-image: Lineargradient(
-  180deg,
-  rgba(0, 0, 0, 0.3),
-  rgba(0, 0, 0, 0.5)
-    ), 
-    url(
-    )
+/* class="jumotron" */ 
+.jumbotron {
+  background-image: Lineargradient(
+      180deg,
+      rgba(0, 0, 0, 0.3),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(https://i.picsum.photos/id/294/200/300.jpg?hmac=37ZMLugCxZOqrLbLvaJ_09fT_uPfl3zlMkICmkVxobg;);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: transparent;
 }
