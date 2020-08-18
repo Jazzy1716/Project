@@ -1,5 +1,6 @@
 /* CSS files add styling rules to your content */
 
+
 body {
   font-family: helvetica, arial, sans-serif;
   /*   margin: 2em; */
@@ -13,7 +14,7 @@ p {
   font-family: Times;
 }
 .customfont {
-  font-family: "Lemonada", cursive;
+  font-family: "Amatic SC", cursive;
   font-weight: 300;
 }
 
