@@ -22,3 +22,12 @@ p {
     background-color: lightblue;
   }
 }
+.jumbotron{
+  Background-image: Lineargradient(
+  180deg,
+  rgba(0, 0, 0, 0.3),
+  rgba(0, 0, 0, 0.5)
+    ), 
+    url(
+    )
+}
