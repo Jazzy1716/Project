@@ -33,9 +33,9 @@ p {
       rgba(0, 0, 0, 0.3),
       rgba(0, 0, 0, 0.5)
     ),
-    url(https://i.picsum.photos/id/294/200/300.jpg?hmac=37ZMLugCxZOqrLbLvaJ_09fT_uPfl3zlMkICmkVxobg;);
+    url(https://picsum.photos/800/300);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  background-color: cornsilk;
+  background-color: transparent;
 }
