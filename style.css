@@ -41,6 +41,9 @@ p {
   background-size: cover;
   background-position: center;
   background-color: antiquewhite;
+
+  border-style: double; 
+  border-color: cornflowerblue;       
 }
 
 .social-media;
